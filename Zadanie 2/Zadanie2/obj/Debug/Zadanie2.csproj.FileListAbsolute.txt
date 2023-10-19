@@ -1,0 +1,14 @@
+C:\Users\rafal\RiderProjects\ConsoleApplication2\Zadanie2\obj\Debug\Zadanie2.csproj.AssemblyReference.cache
+C:\Users\rafal\RiderProjects\ConsoleApplication2\Zadanie2\obj\Debug\Zadanie2.csproj.SuggestedBindingRedirects.cache
+C:\Users\rafal\RiderProjects\ConsoleApplication2\Zadanie2\obj\Debug\Zadanie2.csproj.CoreCompileInputs.cache
+C:\Users\rafal\RiderProjects\ConsoleApplication2\Zadanie2\bin\Debug\Zadanie2.exe
+C:\Users\rafal\RiderProjects\ConsoleApplication2\Zadanie2\bin\Debug\Zadanie2.pdb
+C:\Users\rafal\RiderProjects\ConsoleApplication2\Zadanie2\obj\Debug\Zadanie2.exe
+C:\Users\rafal\RiderProjects\ConsoleApplication2\Zadanie2\obj\Debug\Zadanie2.pdb
+C:\Users\rafal\Desktop\Programowonie obiektowe\Zadanie 2\Zadanie2\bin\Debug\Zadanie2.exe
+C:\Users\rafal\Desktop\Programowonie obiektowe\Zadanie 2\Zadanie2\bin\Debug\Zadanie2.pdb
+C:\Users\rafal\Desktop\Programowonie obiektowe\Zadanie 2\Zadanie2\obj\Debug\Zadanie2.csproj.AssemblyReference.cache
+C:\Users\rafal\Desktop\Programowonie obiektowe\Zadanie 2\Zadanie2\obj\Debug\Zadanie2.csproj.SuggestedBindingRedirects.cache
+C:\Users\rafal\Desktop\Programowonie obiektowe\Zadanie 2\Zadanie2\obj\Debug\Zadanie2.csproj.CoreCompileInputs.cache
+C:\Users\rafal\Desktop\Programowonie obiektowe\Zadanie 2\Zadanie2\obj\Debug\Zadanie2.exe
+C:\Users\rafal\Desktop\Programowonie obiektowe\Zadanie 2\Zadanie2\obj\Debug\Zadanie2.pdb
